@@ -1,1 +1,3 @@
-# UTS_Prog2_24183207005
+Nama : Intan Fiddini
+Kelas : PTI 3A 
+Npm : 24183207005
